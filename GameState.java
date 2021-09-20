@@ -1,6 +1,6 @@
-
 public enum GameState {
-	Initialising,
 	Playing,
-	GameOver
+	Draw,
+	Cross_won,
+	Nought_won
 }
